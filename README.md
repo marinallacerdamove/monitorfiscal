@@ -10,7 +10,6 @@ A partir daí, sempre que a SEFAZ disponibilizar uma nova Nota Técnica/Informe 
 
 Isso garante que não precisaremos mais acessar manualmente os portais em busca de novidades, todo o processo fica monitorado em segundo plano.
 
-Primeira imagem:  
+
 ![Imagem 1](https://i.ibb.co/rBHjrKK/img1.jpg)
-Segunda imagem:  
 ![Imagem 2](https://i.ibb.co/x8G8ZQG3/img2.jpg)
